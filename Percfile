@@ -1,0 +1,2 @@
+web:gunicorn --chdir flaskr --bind 0.0.0.0:.5000__init__
+
